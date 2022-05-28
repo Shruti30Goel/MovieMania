@@ -157,7 +157,7 @@ h6 {
 		margin-left: 30px;
 	}
     #loader {
-     background: url(../static/loader2.gif) no-repeat center center fixed; 
+     background: url(../static/l3.gif) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -229,7 +229,7 @@ h6 {
 		top:0;
 		width: 100%;
 		height: 100%;
-		background-image: url("../static/loader2.gif");
+		background-image: url("../static/l3.gif");
 		background-size: 20%;
 		background-position: 50% 50%;
 		background-color: rgba(255, 255, 255, 1);
