@@ -9,12 +9,12 @@ I did web scrapping in the IMDb site using  beautifulsoup4 and performed sentime
 https://movie-mania-shruti.herokuapp.com/
 
 # How to run this project:
-Clone this repository in your local system.
-Install all the libraries mentioned in the requirements.txt file with the command pip install -r requirements.txt.
-Replace YOUR_API_KEY in both the places (line no. 23 and 43) of static/recommend.js file.
-Open your terminal/command prompt from your project directory and run the main.py file by executing the command python main.py.
-Go to your browser and type http://127.0.0.1:5000/ in the address bar.
-Now you can easily access this website
+1. Clone this repository in your local system.
+2. Install all the libraries mentioned in the requirements.txt file with the command pip install -r requirements.txt.
+3. Replace YOUR_API_KEY in both the places (line no. 23 and 43) of static/recommend.js file.
+4. Open your terminal/command prompt from your project directory and run the main.py file by executing the command python main.py.
+5. Go to your browser and type http://127.0.0.1:5000/ in the address bar.
+6. Now you can easily access this website
 
 # How to get the API key
 Create an account in https://www.themoviedb.org/ and request for the API key over there
