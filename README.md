@@ -1,5 +1,5 @@
 # MovieMania
-a one stop application for searching movies of your interest. It includes features like recommendation implemented using cosine similarity algorithm, auto completion along with movie details including genre, release date, runtime, rating, cast, and reviews. 
+A one stop application for searching movies of your interest. It includes features like recommendation implemented using cosine similarity algorithm, auto completion along with movie details including genre, release date, runtime, rating, cast, and reviews. 
 
 # Data used
 I have fetched data using TMDb api, IMDb dataset and wikipedia. 
